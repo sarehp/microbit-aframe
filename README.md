@@ -8,13 +8,17 @@ INSTALL
        https://pyautogui.readthedocs.io/en/latest/
 
 RUN
+
   python microbit-pyautogui
 
 VIDEO
-  [![microbit-aframe video](https://www.youtube.com/watch?v=X9GSSfY2Rxo)](https://youtu.be/X9GSSfY2Rxo "microbit-aframe video")
+
+  [![microbit-aframe video](https://i.ytimg.com/vi/X9GSSfY2Rxo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4lK8sk6GtymoEVxjmyX0YlnBcZQ)](https://youtu.be/X9GSSfY2Rxo "microbit-aframe video")
 
 TODO
+
   Check these A-Frame tools:
+
     https://github.com/donmccurdy/aframe-keyboard-controls
 
     https://github.com/donmccurdy/aframe-proxy-controls
