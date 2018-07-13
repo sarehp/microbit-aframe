@@ -9,7 +9,9 @@ INSTALL
 
 RUN
 
-  python microbit-pyautogui
+  From bitio/src/ run:
+
+  python microbit-aframe.py
 
 VIDEO
 
