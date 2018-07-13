@@ -4,6 +4,7 @@ Controlling an A-Frame scene with a BBC micro:bit
 Please, forgive us for the succint instructions. 
 
 INSTALL
+
   0) clone this repo
   1) install bitio
        https://github.com/whaleygeek/bitio
