@@ -1,17 +1,20 @@
 Controlling an A-Frame scene with a BBC micro:bit
 =================================================
 
+Please, forgive us for the succint instructions. 
+
 INSTALL
+  0) clone this repo
   1) install bitio
        https://github.com/whaleygeek/bitio
   2) install pyautogui
        https://pyautogui.readthedocs.io/en/latest/
 
-RUN
+QUICK RUN
 
-  From bitio/src/ run:
+  Copy microbit-aframe.py to bitio/src
 
-  python microbit-aframe.py
+  (cd bitio/src; python microbit-aframe.py)
 
 VIDEO
 
